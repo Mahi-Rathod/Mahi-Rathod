@@ -11,11 +11,26 @@ Welcome to my GitHub profile! I'm Mahesh Rathod, a passionate Web Developer enth
 # 💻 Tech Stack:
 Here's a glimpse of the tools and technologies I wield in my cosmic arsenal:
 
-- 💻 **Languages**: JavaScript, Python, C, C++
-- 🌐 **Web Development**: HTML, CSS, React, Node.js, DJango
-- 📱 **Mobile Development**: React Native
-- 🛢️ **Databases**: MongoDB, MySQL
-- 🚀 **Other Tools**: Git, VS Code, Microsoft Azure
+- 💻 **Languages**: 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white) <br>
+- 🌐 **Web Development**: 
+  ![HTML](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white) <br>
+- 📱 **Mobile Development**: 
+  ![React Native](https://img.shields.io/badge/-React_Native-purple?logo=react&logoColor=white) <br>
+- 🛢️ **Databases**: 
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white) <br>
+- 🚀 **Other Tools**: 
+  ![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/-VS_Code-blue?logo=visual-studio-code&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)
+  ![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazon-aws&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Pranav-Malwad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
