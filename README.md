@@ -14,11 +14,14 @@ Here's a glimpse of the tools and technologies I wield in my cosmic arsenal:
 - 💻 **Languages**: 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white) <br>
+  ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white)
+  ![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C++-blue?logo=c%2B%2B&logoColor=white) <br>
 - 🌐 **Web Development**: 
   ![HTML](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
   ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
+  ![Django](https://img.shields.io/badge/-Django-green?logo=django&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white) <br>
 - 📱 **Mobile Development**: 
   ![React Native](https://img.shields.io/badge/-React_Native-purple?logo=react&logoColor=white) <br>
