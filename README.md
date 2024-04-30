@@ -20,13 +20,16 @@ Here's a glimpse of the tools and technologies I wield in my cosmic arsenal:
 - 🌐 **Web Development**: 
   ![HTML](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
   ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
   ![Django](https://img.shields.io/badge/-Django-green?logo=django&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white) <br>
-- 📱 **Mobile Development**: 
+- 📱 **Mobile Development**:
+  ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?logo=android-studio&logoColor=white)
   ![React Native](https://img.shields.io/badge/-React_Native-purple?logo=react&logoColor=white) <br>
 - 🛢️ **Databases**: 
   ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white) <br>
 - 🚀 **Other Tools**: 
   ![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=white)
