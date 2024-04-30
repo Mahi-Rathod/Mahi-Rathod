@@ -36,6 +36,7 @@ Here's a glimpse of the tools and technologies I wield in my cosmic arsenal:
   ![VS Code](https://img.shields.io/badge/-VS_Code-blue?logo=visual-studio-code&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)
   ![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazon-aws&logoColor=white)
+  ![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white)
 
 
 # 📊 GitHub Stats:
