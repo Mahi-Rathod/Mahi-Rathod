@@ -9,9 +9,14 @@ Welcome to my GitHub profile! I'm Mahesh Rathod, a passionate Web Developer enth
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/i/flow/login?redirect_after_login=%2FRathodMahe33122) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/___._mahi_.___/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-rathod-502787209/)
 # 💻 Tech Stack:
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/Git-%232C8EBB.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React.js](https://img.shields.io/badge/react-%2300f.svg?style=for-the-badge&logo=react&logoColor=white) ![Python](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/python.svg) ![DJango](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/django.svg) ![NodeJS](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
+Here's a glimpse of the tools and technologies I wield in my cosmic arsenal:
 
-# 📊 GitHub Stats:
+- 💻 **Languages**: JavaScript, Python, C, C++
+- 🌐 **Web Development**: HTML, CSS, React, Node.js, DJango
+- 📱 **Mobile Development**: React Native
+- 🛢️ **Databases**: MongoDB, MySQL
+- 🚀 **Other Tools**: Git, VS Code, Microsoft Azure
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Pranav-Malwad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pranav-Malwad&theme=dark&hide_border=false)<br/>
