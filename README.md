@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Mahesh Rathod, a passionate Web Developer enth
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/i/flow/login?redirect_after_login=%2FRathodMahe33122)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/___._mahi_.___/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-rathod-502787209/)
-![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAhklEQVRYR+3UQQkAIAgEQc/5aNjcxLEIipVILj+/9RHL+UfWKv0AP9N6RjAkiIVSgcVRHL5dDnVHL9dDnVNnQKIiNZHS7u8FBHN+zqg0mQaCCpSKoE0BA1uLeWlIKpUAKkSB0SIOxlMOTAAAAAElFTkSuQmCC)
+[![LinkedIn](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAhklEQVRYR+3UQQkAIAgEQc/5aNjcxLEIipVILj+/9RHL+UfWKv0AP9N6RjAkiIVSgcVRHL5dDnVHL9dDnVNnQKIiNZHS7u8FBHN+zqg0mQaCCpSKoE0BA1uLeWlIKpUAKkSB0SIOxlMOTAAAAAElFTkSuQmCC)](https://www.geeksforgeeks.org/user/rathod_mahesh123/)
 
 # 💻 Tech Stack:
 Here's a glimpse of the tools and technologies I wield in my cosmic arsenal:
