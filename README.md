@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm Mahesh Rathod, a passionate Web Developer enthusiast who loves to explore and create awesome things. Here you'll find a mix of my projects, contributions, and maybe a few surprises along the way. Feel free to look around and don't hesitate to reach out if you have any questions or just want to chat!
 
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving my UI/UX design skills and Developing some new projects<br><br>👯 **I’m looking to collaborate on:**  <br>Frontend projects<br><br>🌱 **I’m currently learning:**  <br>Advance JavaScript and React JS<br><br>💬 **Ask me About:**  <br>HTML, CSS, JavaScript, Tailwind CSS, React JS, Python, DJango REST, MySQL DataBases and any general Web development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
+🔭 **I’m currently working on:**  <br>Improving my UI/UX design skills and Developing some new projects<br><br>👯 **I’m looking to collaborate on:**  <br>FrontEnd, BackEnd, AI/ML projects<br><br>🌱 **I’m currently learning:**  <br>Advance JavaScript and React JS<br><br>💬 **Ask me About:**  <br>HTML, CSS, JavaScript, Tailwind CSS, React JS, Python, DJango REST, MySQL DataBases and any general Web development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
 
 
 ## 🌐 Socials:
